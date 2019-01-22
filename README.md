@@ -16,6 +16,6 @@ Create and run the sample
 - Replace the value of subscription_key with your subscription key.
 - Replace the value of vision_base_url with the endpoint URL for the Computer Vision resource in the Azure region where you obtained your subscription keys, if necessary.
 - Optionally, replace the value of image_url with the URL of a different image from which you want to extract handwritten text.
-- Save the code as a file with an .py extension. For example, get-handwritten-text.py.
+- Save the code as a file with an .py extension. 
 - Open a command prompt window.
-- At the prompt, use the python command to run the sample. For example, python get-handwritten-text.py
+- At the prompt, use the python command to run the sample. 
